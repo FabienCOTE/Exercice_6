@@ -68,17 +68,17 @@
 }
 
 #item7 {
-  float:right;
+  float:left;
   height: 100%;
   width: 23%;
-  background-color: #D35400;
+  background-color: #16A085;
 }
 
 #item8 {
   float: right;
   width: 22%;
   height: 100%;
-  background-color: #16A085;
+  background-color: #D35400;
 }
 
 #item9 {
