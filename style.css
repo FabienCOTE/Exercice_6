@@ -1,71 +1,86 @@
 #line1 {
   height: 50px;
 }
+
 #line2 {
   height: 150px;
 }
+
 #line3 {
   height: 200px;
 }
+
 #block1 {
   float: left;
   width: 33%;
   height: 100%;
 }
+
 #block2 {
   height: 100%;
 }
+
 #ligne1 {
   height: 50%;
 }
+
 #ligne2 {
   display: block;
   height: 50%;
 }
+
 #item1 {
   float: left;
   width: 80%;
   height: 100%;
   background-color: #2ECC71;
 }
+
 #item2 {
   float: right;
   width: 20%;
   height: 100%;
   background-color: #2980B9;
 }
+
 #item3 {
   height: 100%;
   background-color: #E74C3C;
 }
+
 #item4 {
   width: 33%;
   height: 100%;
   float: left;
   background-color: #E67E22;
 }
+
 #item5 {
   height: 100%;
   background-color: #95A5A6;
 }
+
 #item6 {
   float: left;
   width: 22%;
   height: 100%;
   background-color: #F39C12;
 }
+
 #item7 {
   float:right;
   height: 100%;
   width: 23%;
   background-color: #D35400;
 }
+
 #item8 {
   float: right;
   width: 22%;
   height: 100%;
   background-color: #16A085;
 }
+
 #item9 {
   height: 100%;
   background-color: #2C3E50;
